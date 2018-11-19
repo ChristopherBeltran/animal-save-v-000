@@ -9,4 +9,4 @@ html {
 }
 
 /* Write your solution here */
-@media screen only 
+@media screen only (max-width:1300px)
